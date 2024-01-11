@@ -1,0 +1,361 @@
+G:\workspace_database\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe.config
+G:\workspace_database\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe
+G:\workspace_database\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.pdb
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.AssemblyReference.cache
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Properties.Resources.resources
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.GenerateResource.cache
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CoreCompileInputs.cache
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.exe
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.pdb
+G:\workspace_database\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Form1.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe.config
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\EnvDTE.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\stdole.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.AssemblyReference.cache
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.CostumerLogin_Form.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Form1.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Properties.Resources.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.GenerateResource.cache
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CoreCompileInputs.cache
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CopyComplete
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.exe
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.pdb
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Vendor_Login.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_site.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Menu.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Edit_Menu.resources
+D:\download chrome\Moshtarayat-main\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_loccc.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe.config
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\EnvDTE.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\stdole.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.AssemblyReference.cache
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.CostumerLogin_Form.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Edit_Menu.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Form1.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Menu.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Properties.Resources.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Vendor_Login.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_loccc.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_site.resources
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.GenerateResource.cache
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CoreCompileInputs.cache
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CopyComplete
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.exe
+G:\workspace_database\Proj_Database\The complete\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe.config
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.exe
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Moshtarayat.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\EnvDTE.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\stdole.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\Microsoft.MSXML.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\EnvDTE.xml
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.AssemblyReference.cache
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.SuggestedBindingRedirects.cache
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.AdminLogin.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.AdminProvidedFunctions.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.AssDAtoOr.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.CostumerLogin_Form.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.CostumerMain_Form.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.DA_Deliver_Form.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.DA_Login_Form.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.DA_PickUP_Form.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.DA_ProvidedFns.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Edit_Menu.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Form1.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Menu.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Properties.Resources.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.SavePurchaseHistory.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.SolveProblem.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.UpdateAddress.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.Vendor_Login.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.ViewOrderItems.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.ViewRewards.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.View_Clients.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.View_Orders.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.View_PH.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.VIew_Vendors.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_loccc.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.v_site.resources
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.GenerateResource.cache
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CoreCompileInputs.cache
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.csproj.CopyComplete
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.exe
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.pdb
+E:\DB_Project_Final\Moshtarayat-main\Moshtarayat\obj\Debug\Moshtarayat.ClientPurchaseHistory.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Moshtarayat.exe.config
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Moshtarayat.exe
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Moshtarayat.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\EnvDTE.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\stdole.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.csproj.AssemblyReference.cache
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.AdminLogin.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.AdminProvidedFunctions.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.AssDAtoOr.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.ClientPurchaseHistory.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.CostumerLogin_Form.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.CostumerMain_Form.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.DA_Deliver_Form.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.DA_Login_Form.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.DA_PickUP_Form.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.DA_ProvidedFns.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.Edit_Menu.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.Form1.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.Menu.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.Properties.Resources.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.SavePurchaseHistory.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.SolveProblem.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.UpdateAddress.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.Vendor_Login.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.ViewOrderItems.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.ViewRewards.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.View_Clients.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.View_Orders.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.View_PH.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.VIew_Vendors.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.v_loccc.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.v_site.resources
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.csproj.GenerateResource.cache
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.csproj.CoreCompileInputs.cache
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.csproj.CopyComplete
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.exe
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.pdb
+G:\workspace_database\Proj_Database\FinalProject\Moshtarayat\obj\Debug\Moshtarayat.ReportPorReturnO.resources
